@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hopae-web/static/css/main.d1b05096.chunk.css",
+    "main.js": "/hopae-web/static/js/main.e1c33226.chunk.js",
+    "main.js.map": "/hopae-web/static/js/main.e1c33226.chunk.js.map",
+    "runtime-main.js": "/hopae-web/static/js/runtime-main.31314682.js",
+    "runtime-main.js.map": "/hopae-web/static/js/runtime-main.31314682.js.map",
+    "static/js/2.94cdebc7.chunk.js": "/hopae-web/static/js/2.94cdebc7.chunk.js",
+    "static/js/2.94cdebc7.chunk.js.map": "/hopae-web/static/js/2.94cdebc7.chunk.js.map",
+    "index.html": "/hopae-web/index.html",
+    "precache-manifest.591e40c831dc6e1a72ce7e6adad3d727.js": "/hopae-web/precache-manifest.591e40c831dc6e1a72ce7e6adad3d727.js",
+    "service-worker.js": "/hopae-web/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/hopae-web/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.94cdebc7.chunk.js.LICENSE.txt": "/hopae-web/static/js/2.94cdebc7.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/hopae-web/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31314682.js",
+    "static/js/2.94cdebc7.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.e1c33226.chunk.js"
+  ]
+}
