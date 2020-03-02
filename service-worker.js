@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/hopae-web/precache-manifest.5fde6b511590df148af9dc443d51e096.js"
+  "/hopae-web/precache-manifest.d2a6d59edb2e222bd1cef4fff889f6ed.js"
 );
 
 self.addEventListener('message', (event) => {
